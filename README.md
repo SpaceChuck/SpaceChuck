@@ -1,10 +1,2 @@
-### Hi there 👋
-
-🔭 I’m currently working on Taze Adam
-
-🌱 I’m currently learning Unity
-
-😄 Pronouns: He
-
-⚡ Fun fact: I have a brain
-
+PLAY TAZE ADAM PLAY TAZE ADAM PLAY TAZE ADAM
+https://spacechuck.github.io/taze-adam
